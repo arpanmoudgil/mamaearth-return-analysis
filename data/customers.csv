@@ -1,0 +1,46 @@
+customer_id,name,city,city_tier,signup_date,acquisition_source
+C001,Aarav Sharma,Lucknow,2,2025-03-04,Google Ads
+C002,Ananya Verma,Mumbai,1,2025-06-01,Organic
+C003,Arjun Verma,Delhi,1,2025-03-01,Email
+C004,Aditi Mehta,Jaipur,2,2025-06-16,Email
+C005,Amit Singh,Bengaluru,1,2025-01-02,Google Ads
+C006,Rohan Gupta,Lucknow,2,2025-02-09,Google Ads
+C007,Priya Gupta,Nashik,3,2025-01-24,Organic
+C008,Vikram Khan,Bengaluru,1,2025-06-04,Referral
+C009,Sneha Das,Guwahati,3,2025-05-18,Instagram
+C010,Karan Nair,Nashik,3,2025-05-22,Referral
+C011,Meera Joshi,Udaipur,3,2025-05-28,Google Ads
+C012,Rahul Sharma,Jaipur,2,2025-03-16,Instagram
+C013,Neha Khan,Nashik,3,2025-04-08,Referral
+C014,Siddharth Khan,Lucknow,2,2025-02-11,Referral
+C015,Pooja Kapoor,Bengaluru,1,2025-06-29,Instagram
+C016,Varun Iyer,Jaipur,2,2025-02-11,Organic
+C017,Isha Malhotra,Delhi,1,2025-06-25,Referral
+C018,Nikhil Rao,Nashik,3,2025-02-28,Instagram
+C019,Divya Nair,Udaipur,3,2025-01-17,Google Ads
+C020,Manish Joshi,Udaipur,3,2025-02-24,Organic
+C021,Kavya Malhotra,Chennai,1,2025-02-06,Referral
+C022,Rajesh Das,Bengaluru,1,2025-05-30,Organic
+C023,Shreya Nair,Udaipur,3,2025-02-26,Google Ads
+C024,Tarun Verma,Pune,2,2025-01-29,Google Ads
+C025,Ritika Rao,Indore,2,2025-06-02,Instagram
+C026,Gaurav Joshi,Chennai,1,2025-05-16,Referral
+C027,Simran Khan,Nashik,3,2025-06-24,Instagram
+C028,Harsh Mehta,Lucknow,2,2025-06-14,Referral
+C029,Tanvi Nair,Delhi,1,2025-04-27,Instagram
+C030,Yash Malhotra,Udaipur,3,2025-05-09,Google Ads
+C031,Bhavna Verma,Lucknow,2,2025-06-13,Email
+C032,Deepak Iyer,Lucknow,2,2025-02-11,Email
+C033,Farah Malhotra,Nashik,3,2025-06-03,Referral
+C034,Kunal Verma,Lucknow,2,2025-03-20,Google Ads
+C035,Lata Malhotra,Mumbai,1,2025-01-22,Organic
+C036,Mohit Rao,Mysuru,3,2025-02-02,Organic
+C037,Nisha Iyer,Udaipur,3,2025-05-16,Email
+C038,Om Reddy,Delhi,1,2025-03-21,Organic
+C039,Payal Kapoor,Udaipur,3,2025-04-23,Email
+C040,Ravi Reddy,Jaipur,2,2025-01-17,Referral
+C041,Sakshi Mehta,Delhi,1,2025-05-31,Google Ads
+C042,Uday Das,Mumbai,1,2025-02-28,Instagram
+C043,Vidya Khan,Udaipur,3,2025-01-19,Email
+C044,Zoya Kapoor,Chennai,1,2025-02-24,Email
+C045,Jatin Malhotra,Chennai,1,2025-03-04,Organic

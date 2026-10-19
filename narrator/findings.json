@@ -1,0 +1,64 @@
+{
+  "dataset": {
+    "raw_orders": 180,
+    "duplicates_dropped": 5,
+    "dropped_order_ids": [
+      "O0019",
+      "O0061",
+      "O0093",
+      "O0127",
+      "O0171"
+    ],
+    "clean_orders": 175,
+    "customers_with_orders": 40
+  },
+  "revenue": {
+    "raw_total_inr": 869202.0,
+    "clean_total_inr": 859763.15,
+    "duplicate_value_inr": 9438.85,
+    "avg_order_value_inr": 4912.93
+  },
+  "returns": {
+    "overall_return_rate_pct": 18.9,
+    "by_payment_method_pct": {
+      "COD": 29.0,
+      "UPI": 14.7,
+      "Card": 11.1
+    },
+    "cod_return_rate_pct": 29.0,
+    "prepaid_return_rate_pct": 13.3,
+    "cod_hypothesis_verdict": "SUPPORTED",
+    "highest_risk_segment": {
+      "payment_method": "COD",
+      "city_tier": 3,
+      "return_rate_pct": 40.0,
+      "orders": 20
+    }
+  },
+  "outliers": {
+    "rule": "IQR on quantity, flagged not dropped",
+    "count": 2,
+    "order_ids": [
+      "O0118",
+      "O0123"
+    ],
+    "value_inr": 291936.5
+  },
+  "trend": {
+    "peak_month_with_outliers": "2026-02",
+    "true_peak_month": "2025-11",
+    "true_peak_revenue_inr": 95087.8
+  },
+  "strongest_correlations": [
+    {
+      "pair": "quantity ~ order_value",
+      "r": 0.97,
+      "strength": "strong"
+    },
+    {
+      "pair": "rating ~ returned",
+      "r": -0.68,
+      "strength": "strong"
+    }
+  ]
+}

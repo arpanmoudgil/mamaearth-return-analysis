@@ -1,0 +1,17 @@
+product_id,name,category,price_inr
+P01,Wireless Earbuds,Electronics,2499
+P02,Smart Watch,Electronics,4999
+P03,Power Bank 20000mAh,Electronics,1799
+P04,Bluetooth Speaker,Electronics,3299
+P05,Cotton Kurta,Fashion,1299
+P06,Denim Jacket,Fashion,2799
+P07,Running Shoes,Fashion,3499
+P08,Leather Wallet,Fashion,899
+P09,Steel Water Bottle,Home,649
+P10,Ceramic Dinner Set,Home,3999
+P11,Bedsheet Set,Home,1499
+P12,Table Lamp,Home,1199
+P13,Face Serum,Beauty,799
+P14,Hair Dryer,Beauty,1899
+P15,Perfume 100ml,Beauty,2299
+P16,Sunscreen SPF50,Beauty,499
